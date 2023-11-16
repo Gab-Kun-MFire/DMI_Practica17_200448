@@ -1,4 +1,4 @@
-# DMI_Practica17_200561
+# DMI_Practica17_200448
 
 [![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)](https://postimg.cc/MvzwBvyZ)
 
@@ -8,7 +8,7 @@
 
 
 ## Ingeniería en Desarrollo y Gestión de Software
-## Elisama Arturo Calva Moreno
+## EGabriel Guzmán Garcia
 ## 10A
 ### Desarrollo Móvil Integral
 
